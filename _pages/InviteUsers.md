@@ -1,1 +1,6 @@
-How to invite users to Enterprise
+
+---
+layout: page
+title: How to invite users to Enterprise
+permalink: /InviteUsers/
+---

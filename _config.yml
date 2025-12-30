@@ -1,3 +1,2 @@
-title: Client Documentation
-description: Product documentation and known issues
-theme: minima
+header_pages:
+  - _pages/known-issues.md
