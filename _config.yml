@@ -1,5 +1,12 @@
 title: Client Documentation
 theme: minima
 
+defaults:
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: page
+
 header_pages:
   - _pages/InviteUsers.md
